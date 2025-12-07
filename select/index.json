@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LALA LUCKY GIRLS",
+  "base_artist": "ユニバーサルサウンドチーム",
+  "createdAt": "2025-12-07T12:56:58.660117Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LALA LUCKY GIRLS",
+      "artist": "ユニバーサルサウンドチーム feat.南野カナ_CV:竹達彩奈 南野ハナ_CV:上坂すみれ",
+      "has_synced": false,
+      "path": "select/pl_01_LALA_LUCKY_GIRLS_ユニバーサルサウンドチーム_feat.南野カナ_CV_竹達彩奈_南野ハナ_CV_上坂すみれ.txt"
+    }
+  ]
+}
